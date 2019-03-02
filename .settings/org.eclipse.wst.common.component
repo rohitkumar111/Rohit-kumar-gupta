@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="Sm_EBI">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                
+        <property name="context-root" value="Sm_EBI"/>
+                
+        <property name="java-output-path" value="/Sm_EBI/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>

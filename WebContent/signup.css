@@ -1,0 +1,24 @@
+
+#log{
+	padding:8%;
+}
+
+.form-container{
+	    min-height: 52px;
+    font-size: 1.7rem;
+    line-height: 25px;
+    padding: 0 15px;
+	word-spacing:auto;
+	
+	
+}  
+.form-group input{
+	height:55px;
+	width:620px;
+	margin-bottom:20.5px;
+}
+.btn{
+	width:400px
+	height:52px;
+	margin-left:200px;
+}

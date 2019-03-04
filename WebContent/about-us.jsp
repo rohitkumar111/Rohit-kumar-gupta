@@ -150,7 +150,7 @@ else{
 						<div class="container">
 							<h1>ABOUT US</h1>
 							<p class="leading muted" style="color:#6F6F6F">The concept of learning based game on Sustainable Manufacturing issues has been visualized by <u>Dr. Neeraj Bhanot</u> 
-							 (Assistant Professor, Quantitative Methods and Operations Management, Indian Institute of Management Amritsar) based on his PhD work at IIT Delhi under the guidance of<a href="http://mech.iitd.ac.in/content/rao-pv"> Prof. P.V. Rao</a> and <a href="http://mech.iitd.ac.in/content/deshmukh-sg">Prof. S.G. Deshmukh</a>. However, two students named <u>Sahib Singh </u> and <u>Priyanka Sharma</u>(B.Tech, Department of Computer Science and Engineering, Gulzar Group of Institutes, Khanna) have made contribution towards this project by giving it a complete edge under his mentorship.</p>
+							 (Assistant Professor, Quantitative Methods and Operations Management, Indian Institute of Management Amritsar) based on his PhD work at IIT Delhi under the guidance of<a href="http://mech.iitd.ac.in/content/rao-pv"> Prof. P.V. Rao</a> and <a href="http://mech.iitd.ac.in/content/deshmukh-sg">Prof. S.G. Deshmukh</a>. However, two students named <u>Rohit Kumar Gupta </u> and <u>Sahib Singh</u>(B.Tech, Department of Computer Science and Engineering, Gulzar Group of Institutes, Khanna) have made contribution towards this project by giving it a complete edge under his mentorship.</p>
 						</div>
 					</div>
 					<div class="container">
@@ -165,9 +165,9 @@ else{
                     
                     <div class="col-md-4">
                     <div align="center">
-                    <img src="images/priyanka.jpg" width="200px" height = "300px" alt="Priyanka"/>
+                    <img src="images/rohit.jpg" width="200px" height = "300px" alt="Rohit Kumar Gupta"/>
                     <br>
-                    <p align="center">Priyanka Sharma</p>
+                    <p align="center">Rohit Kumar Gupta</p>
                     </div>
                     </div>
                     
